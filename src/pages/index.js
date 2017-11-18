@@ -16,11 +16,11 @@ const index = () => (
   <div>
     <Hero>
       <img className="mb6" style={logoStyle} src={logo} alt="logo" />
-      <h1>Firefox DevTools Playground</h1>
+      <h1>Achivmax Consultants</h1>
       <div className="container">
         <div className="col-md-6 col-md-offset-3 mt3">
           <p className="mb6">
-            Learn, build, improve, and create with Firefox DevTools.
+            Get advice from best in the field for Free.
           </p>
           <DownloadLink content="index-hero">
             <DownloadWhite />

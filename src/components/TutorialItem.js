@@ -13,7 +13,7 @@ const TutorialItem = props => (
     <p>{props.desc}</p>
     <Link to={props.link}>
       <button className="tutorial-item__btn">
-        Go to Playground <img src={arrowRight} alt="arrow" />
+        Know More <img src={arrowRight} alt="arrow" />
       </button>
     </Link>
   </div>

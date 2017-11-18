@@ -12,13 +12,13 @@ const TutorialList = () => (
     <div className="container">
       <TutorialItem
         photo={cssgridPhoto}
-        title="CSS Grid"
-        desc="CSS Grid Layout is completely changing the game for web design. Learn about CSS Grid Layout and the Firefox DevTools layout panel"
+        title="HR - Human Resources"
+        desc="Still using console.log for debugging JavaScript? There is a better way! Learn about how to use Firefox Debugger to debug and fix your code. "
         link="/css-grid"
       />
       <TutorialItem
         photo={debuggerPhoto}
-        title="Debugger"
+        title="Strategy"
         desc="Still using console.log for debugging JavaScript? There is a better way! Learn about how to use Firefox Debugger to debug and fix your code."
         link="/debugger"
       />
