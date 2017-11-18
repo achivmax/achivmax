@@ -20,10 +20,10 @@ const Layout = ({ children }) => (
     <Helmet>
       <link rel="shortcut icon" type="image/x-icon" href={faviconico} />
       <link rel="icon" type="image/png" href={faviconpng} sizes="196x196" />
-      <title>{'Firefox DevTools PlayGround | Mozilla'}</title>
+      <title>{'Achivmax Consultants | Get advices from industry experts.'}</title>
       <meta
         name="description"
-        content="Learn about CSS Grid Layout, Firefox Debugger, and more with the Firefox DevTools playground."
+        content="Get advices from industry experts."
       />
       <meta property="og:url" content="https://mozilladevelopers.github.io/playground" />
       <meta property="og:title" content="Test, learn, and build with Firefox DevTools" />

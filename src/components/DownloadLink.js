@@ -13,7 +13,7 @@ const trackClick = () => {
 
 const DownloadLink = props => (
   <a
-    href={`https://www.mozilla.org/firefox/developer/?utm_source=moz-playground&utm_medium=referral&utm_content=${props.content}`}
+    href={`http://www.achivmaxconsultants.com/appointments`}
     target="_blank"
     rel="noopener noreferrer"
     onClick={() => trackClick()}

@@ -1,8 +1,8 @@
 {
-  "name": "mozilla-playground",
-  "description": "Learn about CSS Grid Layout",
+  "name": "achivmax-consultants",
+  "description": "Achivmax consultants Web App",
   "version": "1.0.0",
-  "author": "Dan Brown <dbrown@mozilla.com>",
+  "author": "Rahul Krishna <rahul.krishna11@gmail.com>",
   "dependencies": {
     "autoprefixer": "^7.1.4",
     "babel-eslint": "^8.0.0",
@@ -27,7 +27,7 @@
     "typeface-antonio": "^1.0.0"
   },
   "keywords": [
-    "mozilla"
+    "consultancy"
   ],
   "license": "MIT",
   "main": "n/a",

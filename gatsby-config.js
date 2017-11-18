@@ -2,7 +2,7 @@ const autoprefixer = require('autoprefixer');
 
 module.exports = {
   siteMetadata: {
-    title: 'Mozilla Playground',
+    title: 'Achivmax Consultants',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
